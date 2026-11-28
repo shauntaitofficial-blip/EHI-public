@@ -1,0 +1,16 @@
+{
+    "build":  38,
+    "version":  "1.0.0",
+    "notes":  "Much faster with big lists: saving after a large import no longer freezes the app; huge imports work; the Country column is imported",
+    "required":  true,
+    "android":  {
+                    "file":  "EHI-Android-38.apk",
+                    "size":  63968043,
+                    "sha256":  "1fe7516752ed0245fcd1a6afe1fd93bab00d31adad555af452ee516fd5a27ece"
+                },
+    "windows":  {
+                    "file":  "EHI-Windows-38.zip",
+                    "size":  15067829,
+                    "sha256":  "804ac717fec36314b4dcec99dbbc99a9972173e9b00641234388564d05f919c4"
+                }
+}
